@@ -1,0 +1,5 @@
+node_modules/
+dist/
+bubble-tea-love.html
+*.local
+.DS_Store

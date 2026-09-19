@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" width="1120" height="240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7cbcc"/>
+      <stop offset="100%" stop-color="#c46251"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(20 22) scale(1.2)">
+    <rect x="2" y="2" width="60" height="60" rx="19" fill="url(#bg)"/>
+    <rect x="2" y="2" width="60" height="60" rx="19" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
+    <rect x="35" y="6" width="5.2" height="17" rx="2.6" fill="#fff6f1" transform="rotate(14 37.6 14.5)"/>
+    <path d="M19.5 25 L24.2 49.5 Q32 53.6 39.8 49.5 L44.5 25 Z" fill="#fff6f1"/>
+    <path d="M19.5 25 L24.2 49.5 Q32 53.6 39.8 49.5 L44.5 25 Z" fill="#2a1114" fill-opacity="0.06"/>
+    <rect x="16.4" y="19" width="31.2" height="6.4" rx="3.2" fill="#fff6f1"/>
+    <g fill="#3c1c18">
+      <circle cx="27.4" cy="45.2" r="2.9"/><circle cx="32.8" cy="46.4" r="3.1"/><circle cx="38.2" cy="45" r="2.8"/>
+      <circle cx="30.1" cy="40.2" r="2.4"/><circle cx="35.6" cy="40.6" r="2.3"/>
+    </g>
+    <g transform="translate(49.5 13) scale(0.92)">
+      <path d="M0 5 C -7 -1, -5.4 -9.2, 0 -4.6 C 5.4 -9.2, 7 -1, 0 5 Z" fill="#fff6f1"/>
+    </g>
+  </g>
+  <text x="122" y="66" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="44" fill="#fbdedb">
+    bubble<tspan font-style="italic" fill="#eea3a8">tea</tspan>love
+  </text>
+  <text x="124" y="90" font-family="Manrope, Arial, sans-serif" font-size="11" letter-spacing="5" fill="#e18a72">ЖЕМЧУЖНЫЙ ЧАЙ</text>
+</svg>
