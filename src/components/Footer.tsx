@@ -58,7 +58,8 @@ export function Footer() {
         </div>
 
         <p className="mt-12 text-center text-xs text-cream/35">
-          © {new Date().getFullYear()} Bubble Tea Love · концепт для портфолио
+          © {new Date().getFullYear()} Bubble Tea Love · сайт-концепт студии{' '}
+          <a href="https://rogday8.github.io/mir-saitov/" target="_blank" rel="noreferrer" className="underline-offset-2 hover:underline">«Мир сайтов»</a> · все права защищены
         </p>
       </div>
     </footer>
